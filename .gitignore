@@ -1,0 +1,24 @@
+# pycharm 缓存文件和 mac 其他文件
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.DS_Store
+*/.DS_Store
+
+# 模型参数目录
+checkpoints/
+
+# tensorboard logs 文件存放目录
+logs/
+
+# 模型表现日志目录
+logfile/
+
+# 本地配置
+# config.py
+# 测试集结果
+sampleSubmission.csv
+!TempData/competitions/cifar-10/sampleSubmission.csv
+
