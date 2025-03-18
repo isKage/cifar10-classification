@@ -1,3 +1,12 @@
+<p align="center">
+  <a title="License" target="_blank" href="https://github.com/isKage/cifar10-classification/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/isKage/cifar10-classification.svg?style=flat"></a>
+  <a title="GitHub Commits" target="_blank" href="https://github.com/isKage/cifar10-classification/commits/main"><img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/isKage/cifar10-classification.svg?style=flat&color=brightgreen&label=commits"></a>
+  <br><br>
+  <a title="GitHub Watchers" target="_blank" href="https://github.com/isKage/cifar10-classification/watchers"><img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/isKage/cifar10-classification.svg?label=Watchers&style=social"></a>  
+  <a title="GitHub Stars" target="_blank" href="https://github.com/isKage/cifar10-classification/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/isKage/cifar10-classification.svg?label=Stars&style=social"></a>  
+  <a title="GitHub Forks" target="_blank" href="https://github.com/isKage/cifar10-classification/network/members"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/isKage/cifar10-classification.svg?label=Forks&style=social"></a>  
+</p>
+
 # CIFAR-10 分类问题 (基于 ResNet18 预训练模型)
 
 `PyTorch` `Python` `torch` `nn` `ResNet` `ResNet18` `pre-trained`
